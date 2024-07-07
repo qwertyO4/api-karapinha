@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\karapinha_xpto_api.props" />
+</Project>

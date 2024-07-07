@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|c:\\users\\goosly\\documents\\isptec\\aw\\ekarapinhaxpto\\karapinha_xpto_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|c:\\users\\goosly\\documents\\isptec\\aw\\ekarapinhaxpto\\karapinha_xpto_api\\data\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|solutionrelative:data\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|c:\\users\\goosly\\documents\\isptec\\aw\\ekarapinhaxpto\\karapinha_xpto_api\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|solutionrelative:enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|c:\\users\\goosly\\documents\\isptec\\aw\\ekarapinhaxpto\\karapinha_xpto_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|c:\\users\\goosly\\documents\\isptec\\aw\\ekarapinhaxpto\\karapinha_xpto_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|c:\\users\\goosly\\documents\\isptec\\aw\\ekarapinhaxpto\\karapinha_xpto_api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|c:\\users\\goosly\\documents\\isptec\\aw\\ekarapinhaxpto\\karapinha_xpto_api\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|solutionrelative:repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|c:\\users\\goosly\\documents\\isptec\\aw\\ekarapinhaxpto\\karapinha_xpto_api\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA980D01-9EFB-482B-B45F-29CCC670AE43}|karapinha_xpto_api.csproj|solutionrelative:model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userController.cs",
+              "DocumentMoniker": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "Controllers\\userController.cs",
+              "ToolTip": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Controllers\\userController.cs",
+              "RelativeToolTip": "Controllers\\userController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:13:14.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Data\\UserMap.cs",
+              "RelativeDocumentMoniker": "Data\\UserMap.cs",
+              "ToolTip": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Data\\UserMap.cs",
+              "RelativeToolTip": "Data\\UserMap.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T22:35:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "Enums\\UserType.cs",
+              "ToolTip": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Enums\\UserType.cs",
+              "RelativeToolTip": "Enums\\UserType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T22:26:51.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:38:58.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T19:37:16.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAUwEcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:53:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Model\\UserModel.cs",
+              "RelativeToolTip": "Model\\UserModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:12:29.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Goosly\\Documents\\isptec\\aw\\eKarapinhaXPTO\\karapinha_xpto_api\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:30:53.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
